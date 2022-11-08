@@ -5,7 +5,7 @@
 
 > 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 
-> 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas no <a href="[link da sua faculdade](https://faculdadesenacpe.edu.br/)">Senac PE</a>.
+> 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="[link da sua faculdade](https://faculdadesenacpe.edu.br/)">Federal de Alagoas PE</a>.
 
 > 🌱 &nbsp; Aprendendo Java, JS, Html e CSS.
 
