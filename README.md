@@ -3,11 +3,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="450px" max-width="450px" width="450px" align="right" alt="Computador iuriCode">
  <h3> 👨: &nbsp;Um Pouco Da Jornada </h3>
 
-> 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+> 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software e hardware de microorganismos.
 
-> 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="[link da sua faculdade](https://faculdadesenacpe.edu.br/)">Federal de Alagoas PE</a>.
+> 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="[link da sua faculdade](https://faculdadesenacpe.edu.br/)">Federal de Alagoas</a>.
 
-> 🌱 &nbsp; Aprendendo Java, JS, Html e CSS.
+> 🌱 &nbsp; Aprendendo Java, JS, Html, CSS, Angular, NodeJS, Cobol e PHP.
 
  <div>
    <a href="https://github.com/juvithu">
