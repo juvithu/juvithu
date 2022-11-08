@@ -5,9 +5,9 @@
 
 > 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software e hardware de microorganismos.
 
-> 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="[link da sua faculdade](https://faculdadesenacpe.edu.br/)">Federal de Alagoas</a>.
+> 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="[link da sua faculdade](https://faculdadesenacpe.edu.br/)">UFAL de Alagoas</a>.
 
-> 🌱 &nbsp; Aprendendo Java, JS, Html, CSS, Angular, NodeJS, Cobol e PHP.
+> 🌱 &nbsp; Aprendendo Java, JS, Html, CSS, Angular, NodeJS, Cobol, PHP e Assembly.
 
  <div>
    <a href="https://github.com/juvithu">
