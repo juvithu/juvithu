@@ -7,7 +7,7 @@
 
 > 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="[link da sua faculdade](https://faculdadesenacpe.edu.br/)">Federal de Alagoas</a>.
 
-> 🌱 &nbsp; Aprendendo Java, JS, Html, CSS, Angular, NodeJS, Cobol, PHP, Assembly e Manutenção de arduino.
+> 🌱 &nbsp; Aprendendo Java, JS, Html, CSS, Angular, NodeJS, Cobol, PHP e Assembly.
 
  <div>
    <a href="https://github.com/juvithu">
