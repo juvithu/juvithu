@@ -9,11 +9,10 @@
 
 > 🌱 &nbsp; Aprendendo Java, JS, Html, CSS, Angular, NodeJS, Cobol, PHP e Assembly.
 
- <div>
-   <a href="https://github.com/juvithu">
-   <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=juvithu&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true](https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FIAuF99X35RUWSNHGqfaRDH2Uc4H0Hq-_pLxkpRJY5PhVv7u9FTyzTZuxdYghThrB8yeZ&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.pixelorgy.dolly%26hl%3Dpt_BR%26gl%3DUS&tbnid=QQrCamsPk2J6DM&vet=12ahUKEwiM-a_i1p_7AhVit5UCHeOID3EQMygBegUIARC7AQ..i&docid=TCEq-h6xrBDVeM&w=512&h=512&q=dollynho&ved=2ahUKEwiM-a_i1p_7AhVit5UCHeOID3EQMygBegUIARC7AQ)"/>
-   <img height="150em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=juvithu&layout=compact&langs_count=7&theme=cobalt](https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FIAuF99X35RUWSNHGqfaRDH2Uc4H0Hq-_pLxkpRJY5PhVv7u9FTyzTZuxdYghThrB8yeZ&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.pixelorgy.dolly%26hl%3Dpt_BR%26gl%3DUS&tbnid=QQrCamsPk2J6DM&vet=12ahUKEwiM-a_i1p_7AhVit5UCHeOID3EQMygBegUIARC7AQ..i&docid=TCEq-h6xrBDVeM&w=512&h=512&q=dollynho&ved=2ahUKEwiM-a_i1p_7AhVit5UCHeOID3EQMygBegUIARC7AQ)"/>
-   
+ <a href="https://github.com/juvithu">
+ <img height="165em" src="https://github-readme-stats.vercel.app/api?username=juvithu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juvithu&layout=compact&langs_count=7&theme=dracula"/>
+ <img align="right" width="250" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 </div>
 <div style="display: inline_block"><br>
@@ -30,7 +29,6 @@
 <div> 
   
   <a href="https://instagram.com/juvithu?igshid=YmMyMTA2M2Y=" target="_blank"><img src="[https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FIAuF99X35RUWSNHGqfaRDH2Uc4H0Hq-_pLxkpRJY5PhVv7u9FTyzTZuxdYghThrB8yeZ&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.pixelorgy.dolly%26hl%3Dpt_BR%26gl%3DUS&tbnid=QQrCamsPk2J6DM&vet=12ahUKEwiM-a_i1p_7AhVit5UCHeOID3EQMygBegUIARC7AQ..i&docid=TCEq-h6xrBDVeM&w=512&h=512&q=dollynho&ved=2ahUKEwiM-a_i1p_7AhVit5UCHeOID3EQMygBegUIARC7AQ)" target="_blank"></a>
- <a href="" target="_blank"><img src="[https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit](https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FIAuF99X35RUWSNHGqfaRDH2Uc4H0Hq-_pLxkpRJY5PhVv7u9FTyzTZuxdYghThrB8yeZ&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.pixelorgy.dolly%26hl%3Dpt_BR%26gl%3DUS&tbnid=QQrCamsPk2J6DM&vet=12ahUKEwiM-a_i1p_7AhVit5UCHeOID3EQMygBegUIARC7AQ..i&docid=TCEq-h6xrBDVeM&w=512&h=512&q=dollynho&ved=2ahUKEwiM-a_i1p_7AhVit5UCHeOID3EQMygBegUIARC7AQ)e" target="_blank"></a> 
   <a href="https://mail.google.com/mail/u/0/x/vzkmrj4jl503-/?tab=km&view&f=1" target="_blank"><img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=whit](https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FIAuF99X35RUWSNHGqfaRDH2Uc4H0Hq-_pLxkpRJY5PhVv7u9FTyzTZuxdYghThrB8yeZ&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.pixelorgy.dolly%26hl%3Dpt_BR%26gl%3DUS&tbnid=QQrCamsPk2J6DM&vet=12ahUKEwiM-a_i1p_7AhVit5UCHeOID3EQMygBegUIARC7AQ..i&docid=TCEq-h6xrBDVeM&w=512&h=512&q=dollynho&ved=2ahUKEwiM-a_i1p_7AhVit5UCHeOID3EQMygBegUIARC7AQ)e" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-neves-0a67b1248" target="_blank"><img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FIAuF99X35RUWSNHGqfaRDH2Uc4H0Hq-_pLxkpRJY5PhVv7u9FTyzTZuxdYghThrB8yeZ&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.pixelorgy.dolly%26hl%3Dpt_BR%26gl%3DUS&tbnid=QQrCamsPk2J6DM&vet=12ahUKEwiM-a_i1p_7AhVit5UCHeOID3EQMygBegUIARC7AQ..i&docid=TCEq-h6xrBDVeM&w=512&h=512&q=dollynho&ved=2ahUKEwiM-a_i1p_7AhVit5UCHeOID3EQMygBegUIARC7AQ)" target="_blank"></a> 
  
