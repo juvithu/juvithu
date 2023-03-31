@@ -7,7 +7,7 @@
 
 > 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="[link da sua faculdade]([https://faculdadesenacpe.edu.br/](https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FIAuF99X35RUWSNHGqfaRDH2Uc4H0Hq-_pLxkpRJY5PhVv7u9FTyzTZuxdYghThrB8yeZ&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.pixelorgy.dolly%26hl%3Dpt_BR%26gl%3DUS&tbnid=QQrCamsPk2J6DM&vet=12ahUKEwiM-a_i1p_7AhVit5UCHeOID3EQMygBegUIARC7AQ..i&docid=TCEq-h6xrBDVeM&w=512&h=512&q=dollynho&ved=2ahUKEwiM-a_i1p_7AhVit5UCHeOID3EQMygBegUIARC7AQ))">Federal de Alagoas</a>.
 
-> 🌱 &nbsp; Aprendendo Java, JS, Html, CSS, Angular, NodeJS, Cobol, PHP e Assembly.
+> 🌱 &nbsp; Aprendendo Java, JS, Html, CSS, Angular e NodeJS.
 
  <a href="https://github.com/juvithu">
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=juvithu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
