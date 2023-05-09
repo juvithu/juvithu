@@ -28,7 +28,7 @@
  
  <br>
  
-  ## ✨Minhas Redes Sociais✨
+  ## ✨Redes de Contato✨
  
 <div> 
  <a href="https://www.linkedin.com/in/joão-victor-neves-0a67b1248/"> 
