@@ -11,7 +11,7 @@
 
 > 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="[link da sua faculdade]([https://faculdadesenacpe.edu.br/](https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FIAuF99X35RUWSNHGqfaRDH2Uc4H0Hq-_pLxkpRJY5PhVv7u9FTyzTZuxdYghThrB8yeZ&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.pixelorgy.dolly%26hl%3Dpt_BR%26gl%3DUS&tbnid=QQrCamsPk2J6DM&vet=12ahUKEwiM-a_i1p_7AhVit5UCHeOID3EQMygBegUIARC7AQ..i&docid=TCEq-h6xrBDVeM&w=512&h=512&q=dollynho&ved=2ahUKEwiM-a_i1p_7AhVit5UCHeOID3EQMygBegUIARC7AQ))">Federal de Alagoas</a>.
 
-> 🌱 &nbsp; Aprendendo Java, JS, Html, CSS, PHP, NodeJS, BootStrap.
+> 🌱 &nbsp; Aprendendo JS, Html, CSS, PHP, NodeJS, BootStrap.
 
  <a href="https://github.com/juvithu">
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=juvithu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -20,10 +20,13 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />         
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="PHP" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="NodeJS" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />        
+ <img align="center" alt="Bootstrap" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+          
 </div>
  
  <br>
